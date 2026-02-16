@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320" height="200" viewBox="0 0 600 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background Blob -->
+  <path d="M120 180C120 110 200 70 300 80C420 90 480 120 480 180C480 240 420 280 300 270C200 260 120 230 120 180Z" 
+        fill="#F3F4F6"/>
+
+  <!-- Open Book -->
+  <rect x="220" y="150" width="80" height="100" rx="8" fill="#3B82F6"/>
+  <rect x="300" y="150" width="80" height="100" rx="8" fill="#22C55E"/>
+  <line x1="300" y1="150" x2="300" y2="250" stroke="white" stroke-width="4"/>
+
+  <!-- Text Lines Left Page -->
+  <rect x="235" y="170" width="50" height="6" rx="3" fill="white"/>
+  <rect x="235" y="185" width="40" height="6" rx="3" fill="white"/>
+  <rect x="235" y="200" width="55" height="6" rx="3" fill="white"/>
+
+  <!-- Text Lines Right Page -->
+  <rect x="315" y="170" width="50" height="6" rx="3" fill="white"/>
+  <rect x="315" y="185" width="45" height="6" rx="3" fill="white"/>
+  <rect x="315" y="200" width="55" height="6" rx="3" fill="white"/>
+
+  <!-- Check Icon Badge -->
+  <circle cx="390" cy="140" r="25" fill="#8B5CF6"/>
+  <polyline points="380,140 388,148 402,132" fill="none" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+</svg>

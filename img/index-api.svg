@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320" height="200" viewBox="0 0 600 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background Blob -->
+  <path d="M120 180C120 110 200 70 300 80C420 90 480 120 480 180C480 240 420 280 300 270C200 260 120 230 120 180Z" 
+        fill="#F3F4F6"/>
+
+  <!-- Book Stack -->
+  <rect x="230" y="190" width="140" height="18" rx="4" fill="#3B82F6"/>
+  <rect x="240" y="172" width="120" height="18" rx="4" fill="#22C55E"/>
+  <rect x="250" y="154" width="100" height="18" rx="4" fill="#8B5CF6"/>
+
+  <!-- API Cloud -->
+  <ellipse cx="300" cy="120" rx="60" ry="35" fill="#1F2937"/>
+  <text x="300" y="125" text-anchor="middle" fill="white" font-size="22" font-family="Arial" font-weight="bold">
+    API
+  </text>
+
+  <!-- Connection Lines -->
+  <line x1="300" y1="155" x2="300" y2="172" stroke="#9CA3AF" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Floating Nodes -->
+  <circle cx="210" cy="120" r="10" fill="#F59E0B"/>
+  <circle cx="390" cy="120" r="10" fill="#EF4444"/>
+
+  <line x1="220" y1="120" x2="260" y2="120" stroke="#D1D5DB" stroke-width="3" stroke-linecap="round"/>
+  <line x1="340" y1="120" x2="380" y2="120" stroke="#D1D5DB" stroke-width="3" stroke-linecap="round"/>
+
+</svg>
